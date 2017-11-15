@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+    <Person ID="1000">
+        <Name>Nam</Name>
+        <Age>20</Age>
+    </Person>
+    <Person ID="1001">
+        <Name>Luyen</Name>
+        <Age>23</Age>
+    </Person>
+    <Person ID="1002">
+        <Name>Cuong</Name>
+        <Age>23</Age>
+    </Person>
+    <Person ID="1005">
+        <Name>Hau</Name>
+        <Age>19</Age>
+    </Person>
+</People>
